@@ -1,7 +1,11 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"log"
+	"os"
+	"strings"
 
 	"github.com/gocolly/colly/v2"
 )
@@ -45,12 +49,13 @@ func main() {
 		p.Name = h.ChildText("div.name h3")
 		p.Position = h.ChildText("div.order")
 		p.World = h.ChildText("span.world ")
-		p.Tier = h.ChildText("div.tier")
-		p.Points = h.ChildText("div.points")
-		p.Wins = h.ChildText("div.wins")
+		p.Tier = h.ChildAttr("img.js--wolvesden-tooltip", "data-tooltip")
+		p.Points = strings.Replace(h.ChildText("div.points"), "\t", "", -1)
+		p.Wins = strings.Replace(h.ChildText("div.wins"), "\t", "", -1)
 
-		t := h.ChildAttr("img.js--wolvesden-tooltip", "data-tooltip")
-		fmt.Println(t)
+		//t := h.ChildAttr("img.js--wolvesden-tooltip", "data-tooltip")
+		//fmt.Println(t)
+		//fmt.Println(strings.TrimSpace(p.Points))
 
 		ranking = append(ranking, p)
 
@@ -64,4 +69,17 @@ func main() {
 
 	c.Visit("https://na.finalfantasyxiv.com/lodestone/ranking/crystallineconflict/")
 
+	toJSON(ranking)
+
+}
+
+func toJSON(p []player) {
+	file, err := json.MarshalIndent(p, "", " ")
+
+	if err != nil {
+		log.Println("Unable to create file")
+		return
+	}
+
+	_ = os.WriteFile("crystaline-ranking.json", file, 0644)
 }

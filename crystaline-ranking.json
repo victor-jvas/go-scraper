@@ -1,0 +1,802 @@
+[
+ {
+  "Name": "Tomo Kote",
+  "Position": "1",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "3677+490",
+  "Wins": "105+19"
+ },
+ {
+  "Name": "Kilometer Immorales",
+  "Position": "2",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "2906+696",
+  "Wins": "98+18"
+ },
+ {
+  "Name": "Noga Cosnoh",
+  "Position": "3",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "1882",
+  "Wins": "183+22"
+ },
+ {
+  "Name": "Violent Destruction",
+  "Position": "4",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "1593",
+  "Wins": "174+10"
+ },
+ {
+  "Name": "Ice Flamingo",
+  "Position": "5",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "1495",
+  "Wins": "92"
+ },
+ {
+  "Name": "John Darksouls",
+  "Position": "6",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "1487",
+  "Wins": "99"
+ },
+ {
+  "Name": "Vivian Infinity",
+  "Position": "7",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "1469",
+  "Wins": "97+4"
+ },
+ {
+  "Name": "Thunderbina Loux",
+  "Position": "8",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "1399",
+  "Wins": "60+8"
+ },
+ {
+  "Name": "Gala Aurora",
+  "Position": "9",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "1362+89",
+  "Wins": "110+11"
+ },
+ {
+  "Name": "Bryn Creature",
+  "Position": "10",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "1288+94",
+  "Wins": "72+10"
+ },
+ {
+  "Name": "Mi Ly",
+  "Position": "11",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "1260+204",
+  "Wins": "146+11"
+ },
+ {
+  "Name": "Chae Jun",
+  "Position": "12",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "1210+405",
+  "Wins": "103+13"
+ },
+ {
+  "Name": "Zeke Ewoza",
+  "Position": "13",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "1177",
+  "Wins": "70+2"
+ },
+ {
+  "Name": "Alenora Wintersong",
+  "Position": "14",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "1106+404",
+  "Wins": "31+7"
+ },
+ {
+  "Name": "Merlin Emryss",
+  "Position": "15",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "1100",
+  "Wins": "70"
+ },
+ {
+  "Name": "Shin Okusawa",
+  "Position": "16",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "1003",
+  "Wins": "46+4"
+ },
+ {
+  "Name": "Nanaya Shiki",
+  "Position": "17",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "885",
+  "Wins": "111+17"
+ },
+ {
+  "Name": "Celesse Archon",
+  "Position": "18",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "874+191",
+  "Wins": "65+6"
+ },
+ {
+  "Name": "Jay Vermillion",
+  "Position": "19",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "805",
+  "Wins": "46"
+ },
+ {
+  "Name": "Awilix Kugimiya",
+  "Position": "20",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "802",
+  "Wins": "98+11"
+ },
+ {
+  "Name": "S'jay Sharks",
+  "Position": "21",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "797",
+  "Wins": "33"
+ },
+ {
+  "Name": "Brian Ricardo",
+  "Position": "22",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "796",
+  "Wins": "52"
+ },
+ {
+  "Name": "Hibibi Hime",
+  "Position": "23",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "790",
+  "Wins": "130+12"
+ },
+ {
+  "Name": "Ozz Derovar",
+  "Position": "24",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "717+220",
+  "Wins": "90+8"
+ },
+ {
+  "Name": "Bronze Warrior",
+  "Position": "25",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "696+1",
+  "Wins": "67+1"
+ },
+ {
+  "Name": "Kestela August",
+  "Position": "26",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "615",
+  "Wins": "84+3"
+ },
+ {
+  "Name": "Patient Crystal",
+  "Position": "27",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "604+407",
+  "Wins": "29+10"
+ },
+ {
+  "Name": "Neo Dymium",
+  "Position": "28",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "599",
+  "Wins": "141+8"
+ },
+ {
+  "Name": "Tenar Lalelan",
+  "Position": "29",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "596",
+  "Wins": "132+18"
+ },
+ {
+  "Name": "Norma Jeannie",
+  "Position": "30",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "596+199",
+  "Wins": "25+5"
+ },
+ {
+  "Name": "Agreed Indeed",
+  "Position": "31",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "587",
+  "Wins": "74+2"
+ },
+ {
+  "Name": "Renna Nyahaha",
+  "Position": "32",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "515",
+  "Wins": "147+6"
+ },
+ {
+  "Name": "Rusheel Vasscus",
+  "Position": "33",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "509",
+  "Wins": "73"
+ },
+ {
+  "Name": "Mei Chan",
+  "Position": "34",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "504+105",
+  "Wins": "52+3"
+ },
+ {
+  "Name": "Nola Ustrina",
+  "Position": "35",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "503",
+  "Wins": "21"
+ },
+ {
+  "Name": "Garden Crocota",
+  "Position": "36",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "496+496",
+  "Wins": "51+8"
+ },
+ {
+  "Name": "Shum One",
+  "Position": "37",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "403",
+  "Wins": "183+25"
+ },
+ {
+  "Name": "Umi Chan",
+  "Position": "38",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "397",
+  "Wins": "63"
+ },
+ {
+  "Name": "Doomballoon Dapingus",
+  "Position": "39",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "396+3",
+  "Wins": "41+3"
+ },
+ {
+  "Name": "Frenzied Wolf",
+  "Position": "40",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "395",
+  "Wins": "195"
+ },
+ {
+  "Name": "Jarad Dragonstone",
+  "Position": "41",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "394",
+  "Wins": "191+5"
+ },
+ {
+  "Name": "Ava Falafell",
+  "Position": "42",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "394+394",
+  "Wins": "88+13"
+ },
+ {
+  "Name": "Oi Chon",
+  "Position": "43",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "308",
+  "Wins": "86+4"
+ },
+ {
+  "Name": "Veloce Visrin",
+  "Position": "44",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "308",
+  "Wins": "51+1"
+ },
+ {
+  "Name": "Kare Thunderfist",
+  "Position": "45",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "303",
+  "Wins": "61+2"
+ },
+ {
+  "Name": "Rose Zero",
+  "Position": "46",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "300",
+  "Wins": "65"
+ },
+ {
+  "Name": "Yami Bakenekomimi",
+  "Position": "47",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "297",
+  "Wins": "48"
+ },
+ {
+  "Name": "Hrothmar Blackburns",
+  "Position": "48",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "207",
+  "Wins": "133+14"
+ },
+ {
+  "Name": "Aibertain Mando",
+  "Position": "49",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "204",
+  "Wins": "67+13"
+ },
+ {
+  "Name": "Mason's Falls",
+  "Position": "50",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "200",
+  "Wins": "121+5"
+ },
+ {
+  "Name": "Maruni Arui",
+  "Position": "51",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "200",
+  "Wins": "99"
+ },
+ {
+  "Name": "Makise Tera",
+  "Position": "52",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "200+100",
+  "Wins": "72+1"
+ },
+ {
+  "Name": "Iris Xi",
+  "Position": "53",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "200",
+  "Wins": "46"
+ },
+ {
+  "Name": "Zokor Shamavokor",
+  "Position": "54",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "200",
+  "Wins": "22"
+ },
+ {
+  "Name": "Aurellia Weaver",
+  "Position": "55",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "199",
+  "Wins": "98"
+ },
+ {
+  "Name": "Silanah Sylphrena",
+  "Position": "56",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "199",
+  "Wins": "69"
+ },
+ {
+  "Name": "Suhr Zarek",
+  "Position": "57",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "199",
+  "Wins": "16"
+ },
+ {
+  "Name": "Judith Heart",
+  "Position": "58",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "198",
+  "Wins": "83+3"
+ },
+ {
+  "Name": "Masaru Ren",
+  "Position": "59",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "196",
+  "Wins": "49"
+ },
+ {
+  "Name": "Quinton Armenta",
+  "Position": "60",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "103+3",
+  "Wins": "72+2"
+ },
+ {
+  "Name": "Death Saves",
+  "Position": "61",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "131"
+ },
+ {
+  "Name": "Zael Misu",
+  "Position": "62",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "125"
+ },
+ {
+  "Name": "Midodo Mido",
+  "Position": "63",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "120+10"
+ },
+ {
+  "Name": "Sarisa Sattva",
+  "Position": "64",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "105"
+ },
+ {
+  "Name": "Sui Crimes",
+  "Position": "65",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "87"
+ },
+ {
+  "Name": "Yuri Tachibana",
+  "Position": "66",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "83"
+ },
+ {
+  "Name": "Serif Spiegel",
+  "Position": "67",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "75"
+ },
+ {
+  "Name": "Saero Hakuze",
+  "Position": "68",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "73"
+ },
+ {
+  "Name": "Sarah Montcroix",
+  "Position": "69",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "61"
+ },
+ {
+  "Name": "Corza Cometswirl",
+  "Position": "70",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "60"
+ },
+ {
+  "Name": "Fimm Prisa",
+  "Position": "71",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100+100",
+  "Wins": "57+24"
+ },
+ {
+  "Name": "Ayame Kobayashi",
+  "Position": "72",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "54"
+ },
+ {
+  "Name": "Aueling-kitty Mewoemw",
+  "Position": "73",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "53"
+ },
+ {
+  "Name": "Knox Xonk",
+  "Position": "74",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "51"
+ },
+ {
+  "Name": "Arimimi Bunimi",
+  "Position": "75",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "50"
+ },
+ {
+  "Name": "Fatal Chan",
+  "Position": "76",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "48"
+ },
+ {
+  "Name": "Charlotte Noire",
+  "Position": "77",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "100+100",
+  "Wins": "47+11"
+ },
+ {
+  "Name": "Mac Arena",
+  "Position": "77",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "47+6"
+ },
+ {
+  "Name": "Eve Belle",
+  "Position": "79",
+  "World": "Cactuar [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "44+2"
+ },
+ {
+  "Name": "Rerako Bo",
+  "Position": "80",
+  "World": "Jenova [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "41"
+ },
+ {
+  "Name": "A'trea Nex",
+  "Position": "81",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "35"
+ },
+ {
+  "Name": "Pets Please",
+  "Position": "82",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100+100",
+  "Wins": "31+12"
+ },
+ {
+  "Name": "Urie Noire",
+  "Position": "83",
+  "World": "Adamantoise [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "30"
+ },
+ {
+  "Name": "Kogeta Tsuto",
+  "Position": "84",
+  "World": "Faerie [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "28"
+ },
+ {
+  "Name": "Laela Prismriver",
+  "Position": "85",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "26"
+ },
+ {
+  "Name": "Maximilien Desrosiers",
+  "Position": "86",
+  "World": "Siren [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "24"
+ },
+ {
+  "Name": "Thya Bowtail",
+  "Position": "87",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "23"
+ },
+ {
+  "Name": "Yan Shua",
+  "Position": "87",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "23"
+ },
+ {
+  "Name": "Say So",
+  "Position": "89",
+  "World": "Midgardsormr [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "15"
+ },
+ {
+  "Name": "Auelin Fae",
+  "Position": "90",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Crystal",
+  "Points": "100",
+  "Wins": "11"
+ },
+ {
+  "Name": "Haley Comet",
+  "Position": "91",
+  "World": "Cactuar [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★★★+2",
+  "Wins": "65+11"
+ },
+ {
+  "Name": "Ephiel Moore",
+  "Position": "92",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★★",
+  "Wins": "43+2"
+ },
+ {
+  "Name": "Ricky Rice",
+  "Position": "93",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★★",
+  "Wins": "36"
+ },
+ {
+  "Name": "Regis Darsik",
+  "Position": "94",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★★★+1",
+  "Wins": "35+5"
+ },
+ {
+  "Name": "Sojuro Shizuki",
+  "Position": "95",
+  "World": "Siren [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆",
+  "Wins": "133+5"
+ },
+ {
+  "Name": "Kelg Granthal",
+  "Position": "96",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆★+6",
+  "Wins": "131+23"
+ },
+ {
+  "Name": "Axel Walker",
+  "Position": "97",
+  "World": "Gilgamesh [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆",
+  "Wins": "116+14"
+ },
+ {
+  "Name": "Coffee Shop",
+  "Position": "98",
+  "World": "Faerie [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆",
+  "Wins": "113"
+ },
+ {
+  "Name": "Itchy Armpit",
+  "Position": "99",
+  "World": "Jenova [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆★+1",
+  "Wins": "48+13"
+ },
+ {
+  "Name": "Alice Valencia",
+  "Position": "100",
+  "World": "Sargatanas [Aether]",
+  "Tier": "Diamond",
+  "Points": "★★☆",
+  "Wins": "47+3"
+ }
+]
