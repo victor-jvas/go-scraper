@@ -19,24 +19,13 @@ type player struct {
 	Wins     string
 }
 
-func printPlayer(p player) {
-	fmt.Println("Rank: ", p.Position)
-	fmt.Println("Name: ", p.Name)
-	fmt.Println("World: ", p.World)
-	fmt.Println("Tier: ", p.Tier)
-	fmt.Println("Points: ", p.Points)
-	fmt.Println("Wins: ", p.Wins)
-}
-
 func main() {
-	//_, file := os.Create("ranking.json")
-
-	//println(file)
 
 	var ranking []player
 
 	c := colly.NewCollector(
 		colly.AllowedDomains("na.finalfantasyxiv.com"),
+		colly.CacheDir("./ranking_cache"),
 	)
 
 	c.OnRequest(func(r *colly.Request) {
@@ -53,15 +42,23 @@ func main() {
 		p.Points = strings.Replace(h.ChildText("div.points"), "\t", "", -1)
 		p.Wins = strings.Replace(h.ChildText("div.wins"), "\t", "", -1)
 
-		//t := h.ChildAttr("img.js--wolvesden-tooltip", "data-tooltip")
-		//fmt.Println(t)
-		//fmt.Println(strings.TrimSpace(p.Points))
-
 		ranking = append(ranking, p)
 
-		//printPlayer(p)
-
 	})
+	/*this should crawl and get all players from all servers
+	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
+		link := e.Attr("href")
+		// Print link
+		fmt.Printf("Link found: %q -> %s\n", e.Text, link)
+
+		if !strings.Contains(link, "/crystallineconflict") {
+			return
+		}
+		// Visit link found on page
+		// Only those links are visited which are in AllowedDomains
+		c.Visit(e.Request.AbsoluteURL(link))
+	})
+	*/
 
 	c.OnScraped(func(r *colly.Response) {
 		fmt.Println("scraping done!")
